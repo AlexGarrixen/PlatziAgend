@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScheduleEvent /> Render 1`] = `
+<div
+  className="schedule__event"
+  style={
+    Object {
+      "height": 0,
+      "top": 0,
+    }
+  }
+>
+  title test
+</div>
+`;

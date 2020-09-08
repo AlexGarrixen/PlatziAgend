@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScheduleHeader /> Render 1`] = `
+<div
+  className="schedule__header"
+>
+  SEPTEMBER
+</div>
+`;
